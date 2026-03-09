@@ -1,2 +1,2 @@
-# SpendWise-SWTID-2026-8648-
-SpendWise-NM Project
+# SpendWise
+A simple Node.js, Express, and MongoDB backend project for students to learn JWT authentication and basic CRUD operations.
